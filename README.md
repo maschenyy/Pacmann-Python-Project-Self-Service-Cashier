@@ -38,7 +38,7 @@ Delete:
     *Pengguna dapat menghapus semua transaksi atau reset transaksi yang sedang dilakukan   
 
 # D. Flowchart
-
+![flowchart_project](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/27158041-64d9-4bdd-a368-99bbe79ab758) 
 
 # E. Test Case
 1. Test case tambah item
