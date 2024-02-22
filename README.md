@@ -42,28 +42,28 @@ Delete:
 
 # E. Test Case
 1. Test case tambah item
-![add item](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/45f51747-6707-4772-a356-19512086da9f)
+* ![add item](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/45f51747-6707-4772-a356-19512086da9f)
 
 2. Test case update nama item
-![update item name](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/11ab1020-ae4d-44e0-a8ec-a425dc25ec27)
+* ![update item name](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/11ab1020-ae4d-44e0-a8ec-a425dc25ec27)
         
 3. Test case update jumlah item
-![update item quantity](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/f24ae153-13a4-40b9-bd6e-9e8cbc176294)
+* ![update item quantity](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/f24ae153-13a4-40b9-bd6e-9e8cbc176294)
 
 4. Test case update jumlah harga per item
-![update item price](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/bc83d229-f609-46f3-b0b4-c89c694ec0ab)
+* ![update item price](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/bc83d229-f609-46f3-b0b4-c89c694ec0ab)
 
 5. Test case hapus data
-![delete item](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/1019f996-ddc0-4cfb-94a5-126a6578436d)
+* ![delete item](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/1019f996-ddc0-4cfb-94a5-126a6578436d)
 
 6. Test case reset belanjaan
-![reset transaction](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/7ac23167-e846-412c-8c1f-fcdbad997af4)    
+* ![reset transaction](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/7ac23167-e846-412c-8c1f-fcdbad997af4)    
 
 7. Test case check belanjaan
-![check order](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/91f80f33-19c2-46af-8354-e205168292dc)
+* ![check order](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/91f80f33-19c2-46af-8354-e205168292dc)
 
 8. Test case payment
-![total payment](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/3f5e0dc1-c71c-4577-a35b-dd6fe8f37645)
+* ![total payment](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/3f5e0dc1-c71c-4577-a35b-dd6fe8f37645)
 
 
 # F. Deskripsi File
