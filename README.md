@@ -12,14 +12,14 @@ Terdapat kasus (case) dimana pemilik supermarket bernama Andi memiliki rencana u
 # C. Requirements atau Objectives
 ## Requirements
 Requirement yang diperlukan pada program yang dibuat antara lain:
-    *add_item sebagai menu untuk menambahkan barang
-    *update_item_name sebagai method pada menu untuk mengubah nama item
-    *update_item_price sebagai method pada menu untuk mengubah harga item
-    *update_item_qty sebagai method pada menu untuk mengubah jumlah item
-    *delete_item untuk sebagai method pada menu untuk menghapus sebuah item, termasuk harga dan kuantitas
-    *reset_transaction sebagai method pada menu untuk menghapus keseluruhan transaksi
-    *check_order untuk sebagai method pada menu untuk memastikan ulang nama, harga serta jumlah item
-    *total_price sebagai method untuk menghitung harga akhir dari belanja dan terdapat diskon dengan syarat tertentu
+    + add_item sebagai menu untuk menambahkan barang
+    + update_item_name sebagai method pada menu untuk mengubah nama item
+    + update_item_price sebagai method pada menu untuk mengubah harga item
+    + update_item_qty sebagai method pada menu untuk mengubah jumlah item
+    + delete_item untuk sebagai method pada menu untuk menghapus sebuah item, termasuk harga dan kuantitas
+    + reset_transaction sebagai method pada menu untuk menghapus keseluruhan transaksi
+    + check_order untuk sebagai method pada menu untuk memastikan ulang nama, harga serta jumlah item
+    + total_price sebagai method untuk menghitung harga akhir dari belanja dan terdapat diskon dengan syarat tertentu
 
 ## Objectives
 Objektif pada project kali ini yaitu membuat program sistem kasir yang dapat melakukan fitur create, read, update, dan delete. Program tersebut diharapkan dapat berjalan dengan baik sehingga pembeli dapat melakukan transaksi dengan nyaman. Penjelasan lebih lanjut mengenai fitur-fitur tersebut yaitu:
