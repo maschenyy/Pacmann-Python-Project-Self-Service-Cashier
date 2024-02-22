@@ -23,19 +23,19 @@ Requirement yang diperlukan pada program yang dibuat antara lain:
 
 ## Objectives
 Objektif pada project kali ini yaitu membuat program sistem kasir yang dapat melakukan fitur create, read, update, dan delete. Program tersebut diharapkan dapat berjalan dengan baik sehingga pembeli dapat melakukan transaksi dengan nyaman. Penjelasan lebih lanjut mengenai fitur-fitur tersebut yaitu:
-Create:
-    * Pengguna dapat membuat id transaksi ketika berbelanja
-    * Pengguna dapat menambahkan detail barang belanja berupa nama barang, harga per barang, jumlah barang. Kemudian sistem secara otomatis dapat melakukan perhitungan total harga yang didapat dari harga per barang dikali dengan jumlah barang
-Read:
-    * Pengguna dapat melihat barang apa yang telah dimasukkan atau ditambahkan
-    * Pengguna dapat melihat harga akhir transaksi
-Update:
-    * Pengguna dapat mengubah nama barang jika pengguna salah memasukkan nama barang
-    * Pengguna dapat mengubah kuantitas atau jumlah barang yang dimasukkan jika pengguna salah memasukkan jumlah barang
-    * Pengguna dapat mengubah harga barang jika pengguna salah memasukkan harga barang
-Delete:
-    * Pengguna dapat menghapus salah satu item dengan menggunakan nama barang kemudian secara otomatis, harga dan kuantitas dari barang tersebut juga terhapus
-    * Pengguna dapat menghapus semua transaksi atau reset transaksi yang sedang dilakukan
+1. Create:
+    + Pengguna dapat membuat id transaksi ketika berbelanja
+    + Pengguna dapat menambahkan detail barang belanja berupa nama barang, harga per barang, jumlah barang. Kemudian sistem secara otomatis dapat melakukan perhitungan total harga yang didapat dari harga per barang dikali dengan jumlah barang
+2. Read:
+    + Pengguna dapat melihat barang apa yang telah dimasukkan atau ditambahkan
+    + Pengguna dapat melihat harga akhir transaksi
+3. Update:
+    + Pengguna dapat mengubah nama barang jika pengguna salah memasukkan nama barang
+    + Pengguna dapat mengubah kuantitas atau jumlah barang yang dimasukkan jika pengguna salah memasukkan jumlah barang
+    + Pengguna dapat mengubah harga barang jika pengguna salah memasukkan harga barang
+4. Delete:
+    + Pengguna dapat menghapus salah satu item dengan menggunakan nama barang kemudian secara otomatis, harga dan kuantitas dari barang tersebut juga terhapus
+    + Pengguna dapat menghapus semua transaksi atau reset transaksi yang sedang dilakukan
 
 # D. Flowchart
 ![flowchart_project](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/27158041-64d9-4bdd-a368-99bbe79ab758) 
