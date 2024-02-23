@@ -13,11 +13,11 @@ Terdapat kasus (case) dimana pemilik supermarket bernama Andi memiliki rencana u
 ## Requirements
 Requirement yang diperlukan pada program yang dibuat antara lain:
 
-    - a. add_item sebagai method pada menu untuk menambahkan barang
-    - b. update_item_name sebagai method pada menu untuk mengubah nama item
-    - c. update_item_price sebagai method pada menu untuk mengubah harga item
-    - d. update_item_qty sebagai method pada menu untuk mengubah jumlah item
-    - e. delete_item untuk sebagai method pada menu untuk menghapus sebuah item, termasuk harga dan kuantitas
+    - a. add_item sebagai method pada menu untuk menambahkan barang. Input pada method ini yaitu nama barang pada variabel 'nama_item', jumlah barang pada variabel 'jumlah_item', dan harga barang pada variabel 'harga_item'
+    - b. update_item_name sebagai method pada menu untuk mengubah nama item. Input pada method ini yaitu nama barang pada variabel 'nama_item' dan nama barang yang baru pada variabel 'update_nama_item'
+    - c. update_item_price sebagai method pada menu untuk mengubah harga item. Input pada method ini yaitu nama barang pada variabel 'nama_item' dan harga barang yang baru pada variabel 'update_harga_item'
+    - d. update_item_qty sebagai method pada menu untuk mengubah jumlah item. Input pada method ini yaitu nama barang pada variabel 'nama_item' dan jumlah atau kuantitas barang yang baru pada variabel 'update_jumlah_barang'
+    - e. delete_item untuk sebagai method pada menu untuk menghapus sebuah item, termasuk harga dan kuantitas. Input pada method ini yaitu nama barang pada variabel 'nama_barang'. Jika nama barang tidak ditemukan maka akan kembali ke menu utama (main menu)
     - f. reset_transaction sebagai method pada menu untuk menghapus keseluruhan transaksi
     - g. check_order untuk sebagai method pada menu untuk menampilkan dan memastikan ulang nama, harga serta jumlah item
     - h. total_price sebagai method untuk menghitung harga akhir dari belanja dan terdapat diskon dengan syarat tertentu
@@ -44,6 +44,9 @@ Objektif pada project kali ini yaitu membuat program sistem kasir yang dapat mel
 
 # D. Flowchart
 ![flowchart_project](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/27158041-64d9-4bdd-a368-99bbe79ab758) 
+
+Penjelasan dari flowchart tersebut yaitu
+Pertama pengguna memasukkan id transaksi terlebih dahulu. Setelah itu, akan tampil halaman utama (main menu). Pada main menu, pengguna dapat memasukkan menu mana yang akan diakses. Jika sudah selesai pada menu tersebut, user dapat memilih antara untuk kembali ke menu utama atau tetap pada menu tersebut. Jika sudah selesai, pengguna dapat pilih menu nomor 9 untuk keluar dari program
 
 # E. Test Case
 1. Test case tambah item

@@ -9,7 +9,6 @@ class Transaction:
               "Jumlah item:":[],
               "Total harga item:":[]}
 
-
   def __init__(self, id_transaksi):
     """
     Parameter:
@@ -120,7 +119,6 @@ class Transaction:
     except ValueError:
       print("Pastikan Type Data yang dimasukkan sudah benar string ataupun integer")
 
-
   def delete_item(self):
     """
     parameter:
@@ -180,7 +178,6 @@ class Transaction:
     except ValueError:
       print("Pastikan Type Data yang dimasukkan sudah benar string ataupun integer")
 
-
   def check_order(self):
     """
     parameter:
@@ -197,7 +194,6 @@ class Transaction:
       print(tabulate(self.all_item, headers = header, tablefmt = "github"))
     except:
       print("terjadi error")
-
 
   def total_harga(self):
     """
@@ -259,7 +255,7 @@ def main_menu():
       print("1. Add item")
       print("2. Update item name")
       print("3. Update item quantity")
-      print("4. Update item Price")
+      print("4. Update item price")
       print("5. Delete item")
       print("6. Reset transaction")
       print("7. Check order")
