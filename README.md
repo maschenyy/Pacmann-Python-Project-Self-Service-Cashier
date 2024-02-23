@@ -84,3 +84,6 @@ Pertama pengguna memasukkan id transaksi terlebih dahulu. Setelah itu, akan tamp
 3. Buka terminal atau code editor dan sesuaikan lokasi direktori lokal.
 4. Jalankan modul python 'main.py'
 
+# H. Video
+https://youtu.be/Xq7qnYmmkS0 
+The link above will direct you to the video on youtube. Thanks!
