@@ -43,7 +43,7 @@ Objektif pada project kali ini yaitu membuat program sistem kasir yang dapat mel
     + Pengguna dapat menghapus semua transaksi atau reset transaksi yang sedang dilakukan
 
 # D. Flowchart
-![flowchart_project](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/assets/77559787/27158041-64d9-4bdd-a368-99bbe79ab758) 
+![flowchart_project](https://github.com/maschenyy/Pacmann-Python-Project-Self-Service-Cashier/blob/main/flowchart_project.png) 
 
 Penjelasan dari flowchart tersebut yaitu
 Pertama pengguna memasukkan id transaksi terlebih dahulu. Setelah itu, akan tampil halaman utama (main menu). Pada main menu, pengguna dapat memasukkan menu mana yang akan diakses. Jika sudah selesai pada menu tersebut, user dapat memilih antara untuk kembali ke menu utama atau tetap pada menu tersebut. Jika sudah selesai, pengguna dapat pilih menu nomor 9 untuk keluar dari program
